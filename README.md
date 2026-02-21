@@ -21,20 +21,6 @@ It is widely used in Data Science, Machine Learning, and Scientific Computing.
 
 ---
 
-## 📂 Repository Structure
-
-```
-.
-├── numpy_basics.py        # Array creation and basic operations
-├── numpy_operations.py    # Mathematical and statistical functions
-├── numpy_indexing.py      # Indexing, slicing, reshaping
-└── numpy_practice.py      # Practice problems and exercises
-```
-
-(You can modify file names according to your actual files.)
-
----
-
 ## 📚 Topics Covered
 
 - Creating Arrays
