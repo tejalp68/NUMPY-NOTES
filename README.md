@@ -20,6 +20,22 @@ NumPy (Numerical Python) is a powerful Python library used for:
 It is widely used in Data Science, Machine Learning, and Scientific Computing.
 
 ---
+## 📂 Repository Structure
+
+```
+.
+├── NUMPY.ipynb                 # Original Jupyter Notebook with practice and outputs
+└── NUMPY.py                    # Clean Python script (code only, outputs removed)
+```
+
+### 📁 File Details
+
+- **NUMPY.ipynb**  
+  Contains the original NumPy practice work written in Jupyter Notebook, including outputs and experimentation.
+
+- **NUMPY.py**  
+  Converted Python script containing only the executable code without notebook outputs, structured for GitHub and production-style usage.
+
 
 ## 📚 Topics Covered
 
