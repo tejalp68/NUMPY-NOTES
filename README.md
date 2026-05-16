@@ -96,7 +96,8 @@ pip install numpy
 ## 👩‍💻 Author
 
 **Tejal Pagar**  
-Python & Data Science Learner  
+Python & Data Science Learner    
+📍INDIA
 
 ---
 
